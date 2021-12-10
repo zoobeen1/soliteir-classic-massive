@@ -1,0 +1,684 @@
+{
+    "frames": [
+        {
+            "filename": "hearts_12",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_13",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 142,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_1",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 0,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_2",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 142,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_3",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 284,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_4",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 284,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_5",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 0,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_6",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 142,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_7",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 284,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_8",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 426,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_9",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 426,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_10",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 426,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_11",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 568,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_12",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 568,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_13",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 568,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "spades_1",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 0,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_2",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 142,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_3",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 284,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_4",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 426,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_5",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 568,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_6",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 710,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_7",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 710,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_9",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 710,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_8",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 710,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_10",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 0,
+                "y": 824
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_11",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 142,
+                "y": 824
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_12",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 284,
+                "y": 824
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_1",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 426,
+                "y": 824
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "clubs_13",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 568,
+                "y": 824
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_2",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 710,
+                "y": 824
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_3",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 852,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_4",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 852,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_5",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 852,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_6",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 852,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_7",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 852,
+                "y": 824
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_8",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 994,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_9",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 994,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_10",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 994,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_11",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 994,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_12",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 994,
+                "y": 824
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_13",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 0,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "diamond_1",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 142,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_2",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 284,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_3",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 426,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_4",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 568,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_5",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 710,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_6",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 852,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_7",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 994,
+                "y": 1030
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_8",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 1136,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_9",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 1136,
+                "y": 206
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_10",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 1136,
+                "y": 412
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "hearts_11",
+            "frame": {
+                "w": 142,
+                "h": 206,
+                "x": 1136,
+                "y": 618
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
